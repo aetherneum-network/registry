@@ -53,7 +53,7 @@ table above without a body of work and a Council defense.
 ## Standing
 
 Aetherneum Certified™ is a **voluntary third-party attestation** against a published
-rubric mapped to the EU AI Act, NIST AI RMF and ISO/IEC 42001. Aetherneum is **not a
+rubric that provides supporting evidence for the EU AI Act, NIST AI RMF and ISO/IEC 42001. Aetherneum is **not a
 notified body** within the meaning of Regulation (EU) 2024/1689; this attestation does
 not constitute a conformity assessment under that Regulation and confers no presumption
 of conformity. Methodology: [aetherneum.com/standards.html](https://aetherneum.com/standards.html).

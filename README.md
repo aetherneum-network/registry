@@ -4,7 +4,7 @@
 
 Every conferral recorded here is reconstructible from public history: the alumnus
 repository, the Council defense JSONs in [`faculty`](https://github.com/aetherneum-network/faculty),
-and the signed conferral commits. No claim that cannot be reconstructed from git is accepted.
+and the conferral commits (commit signing: being introduced). No claim that cannot be reconstructed from git is accepted.
 
 ## Conferred — Class of '26 (14)
 

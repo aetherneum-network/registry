@@ -16,7 +16,7 @@
    },
    {
     "old": "6d82ad17f9131046d948bc5343a052ba6ef1e841",
-    "new": "2360a96b4d08efb755088130d01cbe3e4ecc4a12",
+    "new": "3dbba2515097ee5964aca4213cf22852d73a7584",
     "kind": "commit",
     "cited_in": [
      "eval/history.json"
@@ -26,7 +26,7 @@
    },
    {
     "old": "884b82bdcab67d847d328a6c892582fcea013170",
-    "new": "ab31e66d73a4e3cdd4257ab292a90165c588b58b",
+    "new": "2e17b6e04ad122c017067abb6f1fdfa657d7060a",
     "kind": "commit",
     "cited_in": [
      "eval/history.json"
@@ -36,7 +36,7 @@
    },
    {
     "old": "97aa20f5384414830b8a9f80ded84613f6567d39",
-    "new": "7b06a276958f5146c2edf517a18585fca3d3f9db",
+    "new": "9fd7a2c1d7a773cdad110c465f150791f494465e",
     "kind": "commit",
     "cited_in": [
      "eval/history.json"
@@ -46,7 +46,7 @@
    },
    {
     "old": "de3f54782e98fc6031d88e0c9eed49c463e7900e",
-    "new": "f92a0027a5885dda446c6b1989ede05e8d1f190d",
+    "new": "12cde6bf2f8a576fc4a2724857b40d7356624488",
     "kind": "commit",
     "cited_in": [
      "MANIFEST.sha256"
@@ -56,7 +56,7 @@
    },
    {
     "old": "e0d075ed11c97429d6b4d8b68b0e0d862835cc27",
-    "new": "fd5c99660f661cc9de024675c00c579bb417dc4e",
+    "new": "c358ede10fb2e0b64e74da8b689437387a51f161",
     "kind": "commit",
     "cited_in": [
      "eval/history.json"
@@ -65,57 +65,10 @@
     "published_after_push": true
    }
   ],
-  "aetherneum-network/costanza-notari": [
-   {
-    "old": "04ae6b9528837edd6b4e11b748906c7a25b82bff",
-    "new": "edb1e3b543041961df393a04ad4eb0b7b5db6e3d",
-    "kind": "commit",
-    "cited_in": [
-     "CHANGELOG.md",
-     "eval/history.json",
-     "handoff_v2.2.json"
-    ],
-    "tree": "61a7dfde17fef515d8398d3384a972135cf60561",
-    "published_after_push": true
-   },
-   {
-    "old": "06994237d37a432079d9ca094d401cf1638e77af",
-    "new": "3b22b4b510c1e0646e96bd6ffe31b50dfb7fce4a",
-    "kind": "commit",
-    "cited_in": [
-     "eval/history.json"
-    ],
-    "tree": "e6ad59964b6af43fc93ed7537874df6a191e83ea",
-    "published_after_push": true
-   },
-   {
-    "old": "d1b09c66a2db735d1ada52ad72bf4666caaa5b54",
-    "new": "357e6e810d36d4d2e89a1c5caac5d9d3926ef437",
-    "kind": "commit",
-    "cited_in": [
-     "eval/history.json",
-     "handoff_v2.2.json"
-    ],
-    "tree": "cd0b2c8d63ec119d7a1a2d30ce7c886fd76342ff",
-    "published_after_push": true
-   },
-   {
-    "old": "e004f08d84c98b1afd1e939db5ea81aac253c8eb",
-    "new": "19dcac3e06648faf8e6747c9c70d13054c48ee60",
-    "kind": "commit",
-    "cited_in": [
-     "CHANGELOG.md",
-     "README.md",
-     "eval/history.json"
-    ],
-    "tree": "653a7042c478b9438d169748ffb821f064584c2c",
-    "published_after_push": true
-   }
-  ],
   "aetherneum-network/ezio-cardone": [
    {
     "old": "023c7cb5629b17295b4ddbbfeb22055a2be16b87",
-    "new": "7f915e8496fc8cb6b0caa8ad67b0f1809f0a4cfd",
+    "new": "e4ed75c03d3d3254a0da6047c9c0bad6eb1d1dbc",
     "kind": "commit",
     "cited_in": [
      "eval/BLIND_PROTOCOL.md",
@@ -126,7 +79,7 @@
    },
    {
     "old": "058e8ac419a6a78e1c3633a1e673fde3ac59f27f",
-    "new": "2b8ccdd503eb6ca4cb7bfd724dd0123485f97fb7",
+    "new": "61e3968821294078d104038c24a5c46463d1f10d",
     "kind": "commit",
     "cited_in": [
      "eval/BLIND_PROTOCOL.md",
@@ -137,7 +90,7 @@
    },
    {
     "old": "05b00f64cb6771c698462905120bd36125b57c25",
-    "new": "a25cfacdbc026092b8fe04f887c5a671c5d491db",
+    "new": "7d744b0e80dec01399106893e9a1ecea74a9c656",
     "kind": "commit",
     "cited_in": [
      "eval/blind/hand-11/GOLD_OUTCOMES.md",
@@ -148,7 +101,7 @@
    },
    {
     "old": "06ff379e511f6ed22cb584aaee981dd3cd0d8b0e",
-    "new": "221c306bb39f5cdc3f2adaa7efe0d36d9e369bc7",
+    "new": "1804e5a9d61f2bd839694b367793c76d267884ce",
     "kind": "tag",
     "cited_in": [
      "eval/BLIND_PROTOCOL.md",
@@ -159,7 +112,7 @@
    },
    {
     "old": "08de8da1eed23c375a93bc16410cdc1e4d9b021b",
-    "new": "8feced8b0df5dd43fb0993d43812ac301e63d135",
+    "new": "c35d930d2d93c8294f1affde26ea9a52112bde3b",
     "kind": "commit",
     "cited_in": [
      "eval/history.json"
@@ -169,7 +122,7 @@
    },
    {
     "old": "0c26555916701c4a81ea6490c32d5e7162edcdc8",
-    "new": "7eb977717a7e4d3a40635a43384a1b4feb2fac5b",
+    "new": "139d7384c2a990ecd46b2cd6e63eccd80fb82a3d",
     "kind": "tag",
     "cited_in": [
      "eval/BLIND_PROTOCOL.md",
@@ -190,7 +143,7 @@
    },
    {
     "old": "11f1559870a71eee7f3251941495abf30bbaabb4",
-    "new": "cde73402a93ffbeeb682e04b4295fbf8b67b0108",
+    "new": "9aa175a9109296101f0771b01be6d37b8eaafae1",
     "kind": "commit",
     "cited_in": [
      "eval/blind/hand-24/GOLD_OUTCOMES.md",
@@ -201,7 +154,7 @@
    },
    {
     "old": "12453f2ac263d1cba7f88364b2be1a8f9186d344",
-    "new": "f5a08a4c31f9bed3b85e5797f059b675c6da4268",
+    "new": "f79c1ceef52800f3529fd08157589c59e3f640f3",
     "kind": "tag",
     "cited_in": [
      "eval/BLIND_PROTOCOL.md"
@@ -211,7 +164,7 @@
    },
    {
     "old": "267ea87f4fa147bc66fd2af64c499ac2bf019876",
-    "new": "ec3ef5c596f993459182f402d54cff7a9c4c26f2",
+    "new": "a6cce55c66f45fe3973f6012d7a81196111e65ae",
     "kind": "commit",
     "cited_in": [
      "CHANGELOG.md",
@@ -234,7 +187,7 @@
    },
    {
     "old": "3a0d69e9f8b9849782abb586bb085bc030c09419",
-    "new": "c2cb48bf16370a51ac9357a029587dcd545dacf8",
+    "new": "015d68dda0153c1941237baef93cfd91defcf3cb",
     "kind": "commit",
     "cited_in": [
      "eval/history.json"
@@ -244,7 +197,7 @@
    },
    {
     "old": "452b46d5e2686aa0fca7d7aa50dec32e2ec3aa38",
-    "new": "d4e51bd2e1702f4c9511b2baeca01ad5e782ea92",
+    "new": "8b735d80b112154566b46c97d418396820f10145",
     "kind": "commit",
     "cited_in": [
      "eval/BLIND_PROTOCOL.md",
@@ -255,7 +208,7 @@
    },
    {
     "old": "475bd994bbd063c4dc7cebb15f50e7b9474ebd58",
-    "new": "de6ad1d1086dbf1060a3df046ffcf59f12bceff9",
+    "new": "6c37a1cbff90382074ee92ca7f00e6694496a57a",
     "kind": "tag",
     "cited_in": [
      "eval/BLIND_PROTOCOL.md"
@@ -265,7 +218,7 @@
    },
    {
     "old": "4b2dbaadd8b21b20f64132ff882360d747331917",
-    "new": "44fc7fc304722a16cf514eb8e95b446f3faa5ecc",
+    "new": "c25ee42b65caba4dca573f294503d35fbbf60cdc",
     "kind": "commit",
     "cited_in": [
      "eval/BLIND_PROTOCOL.md",
@@ -276,7 +229,7 @@
    },
    {
     "old": "4c90d537077bd879138f9d09c052a41f34149bf2",
-    "new": "6791be818de502048b77d0506a6ae7eaa5762a74",
+    "new": "929ccd6b3f26129b4e7e07831c9ea57ea0cafe37",
     "kind": "commit",
     "cited_in": [
      "CHANGELOG.md",
@@ -288,7 +241,7 @@
    },
    {
     "old": "50a365e455d613bbdb580f891b9a29fdaea88650",
-    "new": "3d276ce16809bd27f66a125c07021e9019680dd7",
+    "new": "e62a27b4771005aff47a92ee96101bd4acec8d4d",
     "kind": "commit",
     "cited_in": [
      "eval/BLIND_PROTOCOL.md",
@@ -300,7 +253,7 @@
    },
    {
     "old": "564dc734c217d5462af9dc9d0e7ca0741bdba510",
-    "new": "90d58cc98736b5e25c4e535ce51da389a8cd95ac",
+    "new": "0f336f1b409cef855466d37989e767dc02f4475f",
     "kind": "commit",
     "cited_in": [
      "README.md",
@@ -312,7 +265,7 @@
    },
    {
     "old": "5a13f3f7bf4429cbfa4ca2a05b1de69574f83e4c",
-    "new": "256b4b86bbe55d98009f4c69350e5899c98f3d21",
+    "new": "07a554b74a74aaca4803856d508e5e7ab2fa9510",
     "kind": "commit",
     "cited_in": [
      "CHANGELOG.md",
@@ -324,7 +277,7 @@
    },
    {
     "old": "65b02335fb718ed061d3c9e665e26db97accc9ef",
-    "new": "6ae826d2062d05ae1ddb0bf683d784736fd58e49",
+    "new": "032f6a75dd9c599d8fdda0f9ee9d439211923a85",
     "kind": "commit",
     "cited_in": [
      "CHANGELOG.md",
@@ -335,7 +288,7 @@
    },
    {
     "old": "66f116539d7421b95d124b94a32d4e8bbc92ba9e",
-    "new": "256c119f710a6489829e5a2d3323b45402484fd5",
+    "new": "6d0ac80b5df90bc429ea6afb06ab90cb19bd8d57",
     "kind": "tag",
     "cited_in": [
      "eval/BLIND_PROTOCOL.md"
@@ -345,7 +298,7 @@
    },
    {
     "old": "67cb31da93b55d86ce442d05305dc293663f8c48",
-    "new": "6caf07d07e6dcd76582e34757872b9cbea0c85e1",
+    "new": "fc924bc5c094b15862297f052790a8218535535f",
     "kind": "commit",
     "cited_in": [
      "README.md",
@@ -357,7 +310,7 @@
    },
    {
     "old": "695b1b66820f34dd7cf700b2e95ef7f486e0c0e8",
-    "new": "29a26c7af24fb94fa7afc8cac227c4c76f890c7b",
+    "new": "7c3c0eabc146683e52463f46e99b7e232d6e5713",
     "kind": "commit",
     "cited_in": [
      "eval/BLIND_PROTOCOL.md",
@@ -368,7 +321,7 @@
    },
    {
     "old": "6acebba59e0fb59972e5dab75e0908de77ed67f1",
-    "new": "2ab1265ad8fe636a104483886a3eb2fad13cccfd",
+    "new": "8d2ba749f9a12c256760af5d33857ec8ed842c13",
     "kind": "commit",
     "cited_in": [
      "CHANGELOG.md",
@@ -381,7 +334,7 @@
    },
    {
     "old": "6d466e28e1dd4f7ffa8257af54da95b10a9bd96a",
-    "new": "e0524ab502040bd73a500decc44ffa034b21d0f6",
+    "new": "8ae6a8c8cdbb6dc951405943c5efb87af75328dd",
     "kind": "commit",
     "cited_in": [
      "eval/BLIND_PROTOCOL.md",
@@ -392,7 +345,7 @@
    },
    {
     "old": "77e7736f573c93024f0aa49157f5949287bee698",
-    "new": "b085928e85d628dd0046822aff84ad664feae319",
+    "new": "ce898df9fe6e8ce2aae6df1e8b893962dd9018db",
     "kind": "commit",
     "cited_in": [
      "eval/BLIND_PROTOCOL.md",
@@ -414,7 +367,7 @@
    },
    {
     "old": "7d7d951612ce4606f501fd96ab89daceea707765",
-    "new": "c79e478409611ab5d54f2720cb9bf0a3312e3e90",
+    "new": "45ed3e9d3275cf518c7ee99935864badd086be15",
     "kind": "tag",
     "cited_in": [
      "eval/BLIND_PROTOCOL.md"
@@ -434,7 +387,7 @@
    },
    {
     "old": "86c419432ebda22541b800498a1b34269cbbf648",
-    "new": "8c8745c81699ba5fda3d7d7c22f5b3b17eade136",
+    "new": "9e8f8c50ddd614cc72be9af7fb584341df812de3",
     "kind": "commit",
     "cited_in": [
      "eval/blind/hand-18/GOLD_OUTCOMES.md",
@@ -445,7 +398,7 @@
    },
    {
     "old": "91cba79b5671a9f273a7ecf268dc92ffa8679a23",
-    "new": "5d4c07c98b32bc5ad78c7e58393c9ac32824a21c",
+    "new": "61b072762fb209e7b522e5f96c7bbe5c7a687cbf",
     "kind": "tag",
     "cited_in": [
      "eval/BLIND_PROTOCOL.md"
@@ -455,7 +408,7 @@
    },
    {
     "old": "99894a9d1670b60acdd9a3c0942071aabafada03",
-    "new": "14876c2087eb87ecc295c425c625bc0eed5e6a39",
+    "new": "1b1210146bed255b43cfbe05597273c153043a21",
     "kind": "commit",
     "cited_in": [
      "README.md",
@@ -479,7 +432,7 @@
    },
    {
     "old": "a982b7b7e4fa2d9112d1cc6df8c6ed867043e5b5",
-    "new": "4f6e678094c3038a19a7955f95b0e8e74f43f400",
+    "new": "f3bc1b8d551cebf8639f415e297664009da6c561",
     "kind": "commit",
     "cited_in": [
      "CHANGELOG.md",
@@ -492,7 +445,7 @@
    },
    {
     "old": "ae66f49debcb1bb15e83e1827acda35b03c4a3a6",
-    "new": "bb675dd188a872b0493968d55037024ac76d70ce",
+    "new": "94f333c81ee619e8b4f1ebc30fe08b2db8f958e9",
     "kind": "tag",
     "cited_in": [
      "eval/BLIND_PROTOCOL.md",
@@ -503,7 +456,7 @@
    },
    {
     "old": "b2b34ae7289f4854989f4b2ee3a64ef95cc868a4",
-    "new": "1674ca7a6f31530ecd5b99ecc2bb5dca36eafdaf",
+    "new": "0d12ad7db80ffcdd204bb2bc27aac0dfc9934a62",
     "kind": "commit",
     "cited_in": [
      "CHANGELOG.md"
@@ -513,7 +466,7 @@
    },
    {
     "old": "b62483039af57dd32a81651ff2ad9c67200a5e1b",
-    "new": "3f0be4ad8888bc767d9d4c86a52cb3af6f8856ab",
+    "new": "c12c7628184c8d94f143b7ef308af628a91381c7",
     "kind": "commit",
     "cited_in": [
      "README.md",
@@ -525,7 +478,7 @@
    },
    {
     "old": "b65e45a5289133375222fa595abdbd9cd2087be7",
-    "new": "f59d63ad006a128e959bda5439fadbf463e8070a",
+    "new": "3243f0755088a518e4d5bec0f48043de319dce53",
     "kind": "commit",
     "cited_in": [
      "eval/BLIND_PROTOCOL.md",
@@ -546,7 +499,7 @@
    },
    {
     "old": "bc0e771fc3519e3927c72da27b267339f6f837c7",
-    "new": "1d0a28e32bed375a62dc229197cc1a307b075bcb",
+    "new": "688d3ecb44cc04743f2e012af72932e67f4a98dc",
     "kind": "commit",
     "cited_in": [
      "eval/history.json"
@@ -566,7 +519,7 @@
    },
    {
     "old": "c7283a49bc1bcba6e7ecbec135be98f81d512419",
-    "new": "0e5f59a36315dce1702487968545cffb8a4ce2d1",
+    "new": "92fe69a255bbdb9dda616b11de47bc41740fea8d",
     "kind": "commit",
     "cited_in": [
      "eval/blind/hand-20/GOLD_OUTCOMES.md",
@@ -577,7 +530,7 @@
    },
    {
     "old": "c7fa9d7a0380a6b81f51efd6c6df562f829c769c",
-    "new": "a7d9ba1195b854ed7d7680e667158039d41441a3",
+    "new": "5b03bfd3f6528ed0a94bf2e28a421a183caa0d55",
     "kind": "tag",
     "cited_in": [
      "eval/BLIND_PROTOCOL.md",
@@ -588,7 +541,7 @@
    },
    {
     "old": "d1769d555934ca5eaf4717bafe8135105caffd43",
-    "new": "146a4f28b3d0d0d4af87c1f766c9ed09456a3c37",
+    "new": "cf8bc759f785329b3f17f02ca2d09126b8ed909b",
     "kind": "commit",
     "cited_in": [
      "eval/BLIND_PROTOCOL.md",
@@ -599,7 +552,7 @@
    },
    {
     "old": "db334c9e8b0978559052ac27bb0f81043663b5e9",
-    "new": "9e05680cad5280c729c864ac484dcae4716a2cd2",
+    "new": "7cd1117be7f2a193c0ca2631193dd18df0753dc7",
     "kind": "commit",
     "cited_in": [
      "eval/blind/hand-22/GOLD_OUTCOMES.md",
@@ -610,7 +563,7 @@
    },
    {
     "old": "dbff8e839afe41e0fc295e5614a39db07f373ead",
-    "new": "6c24e93a2aece85574cacf16ddba11cdd9e81ddc",
+    "new": "91bb144d67ea7dabea7cdb45ea8ec67ee2b4ecd7",
     "kind": "tag",
     "cited_in": [
      "eval/BLIND_PROTOCOL.md"
@@ -630,7 +583,7 @@
    },
    {
     "old": "e6525e26fe84c7f57fc297cf57154563d9de5649",
-    "new": "a20bc18e7faef5970f7081c9b9e1fd30f5e93344",
+    "new": "b910c27fc2197109185a8191ce37b88e4846ab01",
     "kind": "tag",
     "cited_in": [
      "eval/BLIND_PROTOCOL.md",
@@ -641,7 +594,7 @@
    },
    {
     "old": "e68704d4ab670d78072eee9bc3049e2005f541d1",
-    "new": "82a48c7b7da43e19a598423be8c87871f6cc64a5",
+    "new": "e1501536f0fad377099af885cd6bf738af20f1f3",
     "kind": "commit",
     "cited_in": [
      "README.md",
@@ -653,7 +606,7 @@
    },
    {
     "old": "e779adcce24d97d968c5d61f99c1fbccdaca6607",
-    "new": "56786f15b82d01c18cd4c4f22eb8ce1a18a29858",
+    "new": "9a5a0afefdb98076056f1f6266328143dd182b10",
     "kind": "commit",
     "cited_in": [
      "CHANGELOG.md"
@@ -663,7 +616,7 @@
    },
    {
     "old": "f73096be220bf801d72bedc6dc1096c0e479e7d6",
-    "new": "4180c69986b4877d01752db6f79a7ef76d279c9e",
+    "new": "42250f8589c56e68b6a583a54722d5774e4c64d8",
     "kind": "commit",
     "cited_in": [
      "eval/history.json"
@@ -673,7 +626,7 @@
    },
    {
     "old": "f76dfadcf45d6b031e611a1932713ce96ff2d3fd",
-    "new": "32e4c21cc8a7ce99414353e04a54b6ae16d2a42f",
+    "new": "43f5507863d305ac77c62b9e424af37dcaa8e114",
     "kind": "commit",
     "cited_in": [
      "CHANGELOG.md",
@@ -685,7 +638,7 @@
    },
    {
     "old": "ff97ea67b520ee67d469cc9ada7100a56385e298",
-    "new": "fdb622d18cce368c64fb19e2b1707f3e3645e58f",
+    "new": "b41d84c27d45b7f16f9fc6a0de3eba18caad12c6",
     "kind": "commit",
     "cited_in": [
      "eval/history.json"
@@ -725,7 +678,7 @@
    },
    {
     "old": "54c32502e32ba32d88e0e548aa6fbcb248b98309",
-    "new": "38fb0c5598684024d60e80d5f7770f8f3e7496d4",
+    "new": "365a0c0c978d9d1f4aba0857654ab4d2d8a8f680",
     "kind": "commit",
     "cited_in": [
      "tests/test_docs.py"
@@ -735,7 +688,7 @@
    },
    {
     "old": "6d77abe432f9a3853d88f0dd6c05adf7d3a1a0d0",
-    "new": "91ff6de9eff95051e27778581d6acf492ebd997a",
+    "new": "f7e7a371282fda53cea18e9f403df07ae647ae46",
     "kind": "commit",
     "cited_in": [
      "eval/BLIND_PROTOCOL.md"
@@ -765,7 +718,7 @@
    },
    {
     "old": "a4492d8817e413ec23b1a8090c2ce064659c9ed9",
-    "new": "74298c2b2c786e033a0282b30725251d8dda0b87",
+    "new": "bf05f7fec1e4c2364b67e8e038b41ff57dbce4cc",
     "kind": "commit",
     "cited_in": [
      "README.md",
@@ -779,7 +732,7 @@
   "aetherneum-network/tomaso-riviera": [
    {
     "old": "3a554433f1f52db4cf50cf03376c7f6cb63dfc8d",
-    "new": "7ee9e29bef6e3ee97afd92f61f5a3ba31c2a2264",
+    "new": "198bee087218e55978874a0f1a7043b8411c849b",
     "kind": "tag",
     "cited_in": [
      "eval/history.json"
@@ -789,7 +742,7 @@
    },
    {
     "old": "894e0ce1fe4437f43587160af06f69ec8855ae7b",
-    "new": "c35b21b213404e95ad59f9f37339e1beb99c12d9",
+    "new": "78c1b7a1bfca58ac9f5f5c19f41a9ef8f4df7037",
     "kind": "commit",
     "cited_in": [
      "MANIFEST.sha256"
@@ -799,7 +752,7 @@
    },
    {
     "old": "cb6d2c225fbe9884e22f52366cd3f37c1d7f0c93",
-    "new": "d101a8853ae92624ca154f174bbfe1cb98347dd5",
+    "new": "49419748b90cc53b8f88811da1f6bad7e796b0ee",
     "kind": "commit",
     "cited_in": [
      "eval/history.json"
@@ -809,7 +762,7 @@
    },
    {
     "old": "f4a89c53492cc042afd0727302df8be7be62c947",
-    "new": "93b7e9d52ed0837d7882414f3edcac49c44f1221",
+    "new": "d2ca27157565eda6f91daf6ecab82d9ae1b242f5",
     "kind": "commit",
     "cited_in": [
      "README.md",

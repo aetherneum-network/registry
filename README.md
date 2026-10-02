@@ -35,6 +35,12 @@ and versioned in [`faculty/cohort-the-hundred`](https://github.com/aetherneum-ne
 **A candidate on the manifest is a commitment, not a certificate** — nothing enters the
 table above without a body of work and a Council defense.
 
+## History
+
+- [2 October 2026: history rewrite](history/2026-10-02-rewrite.md): an e-mail address was replaced in the author and
+  committer fields of some commits of the organization; file contents are unchanged. The page maps every hash cited in
+  a frozen record to the same commit after the rewrite.
+
 ## Standing
 
 Aetherneum Certified™ is a **voluntary third-party attestation** against a published

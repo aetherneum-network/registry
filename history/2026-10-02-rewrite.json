@@ -1,0 +1,857 @@
+{
+ "date": "2026-10-02",
+ "organization": "aetherneum-network",
+ "note": "Hashes cited in frozen records, mapped to the same commit after the history rewrite. Trees are unchanged: git rev-parse <new>^{tree} equals 'tree'.",
+ "repositories": {
+  "aetherneum-network/adrian-volta": [
+   {
+    "old": "030711ccea25a97a219626be8588990769fd0b9c",
+    "new": "16466609213615f8b04ddd7d75de74536b51f3bc",
+    "kind": "commit",
+    "cited_in": [
+     "CHANGELOG.md"
+    ],
+    "tree": "38e03f2269d4d2c4b06b5d6a6c63380ce0837d23",
+    "published_after_push": true
+   },
+   {
+    "old": "6d82ad17f9131046d948bc5343a052ba6ef1e841",
+    "new": "2360a96b4d08efb755088130d01cbe3e4ecc4a12",
+    "kind": "commit",
+    "cited_in": [
+     "eval/history.json"
+    ],
+    "tree": "d557c67139a4248de1de22a45c1316ecd1cfe6e5",
+    "published_after_push": true
+   },
+   {
+    "old": "884b82bdcab67d847d328a6c892582fcea013170",
+    "new": "ab31e66d73a4e3cdd4257ab292a90165c588b58b",
+    "kind": "commit",
+    "cited_in": [
+     "eval/history.json"
+    ],
+    "tree": "3caf862c0dd89338b83ed59fb6e33c8e02c5f3f5",
+    "published_after_push": true
+   },
+   {
+    "old": "97aa20f5384414830b8a9f80ded84613f6567d39",
+    "new": "7b06a276958f5146c2edf517a18585fca3d3f9db",
+    "kind": "commit",
+    "cited_in": [
+     "eval/history.json"
+    ],
+    "tree": "b7e1a920d3877a04781d037809c7e7cab7c91c17",
+    "published_after_push": true
+   },
+   {
+    "old": "de3f54782e98fc6031d88e0c9eed49c463e7900e",
+    "new": "f92a0027a5885dda446c6b1989ede05e8d1f190d",
+    "kind": "commit",
+    "cited_in": [
+     "MANIFEST.sha256"
+    ],
+    "tree": "6d17aac27283dfeabde4ae7598ba3b85e874fecf",
+    "published_after_push": true
+   },
+   {
+    "old": "e0d075ed11c97429d6b4d8b68b0e0d862835cc27",
+    "new": "fd5c99660f661cc9de024675c00c579bb417dc4e",
+    "kind": "commit",
+    "cited_in": [
+     "eval/history.json"
+    ],
+    "tree": "36150fd8d8c9fbc4fb12a0921640e065961d7f1a",
+    "published_after_push": true
+   }
+  ],
+  "aetherneum-network/costanza-notari": [
+   {
+    "old": "04ae6b9528837edd6b4e11b748906c7a25b82bff",
+    "new": "edb1e3b543041961df393a04ad4eb0b7b5db6e3d",
+    "kind": "commit",
+    "cited_in": [
+     "CHANGELOG.md",
+     "eval/history.json",
+     "handoff_v2.2.json"
+    ],
+    "tree": "61a7dfde17fef515d8398d3384a972135cf60561",
+    "published_after_push": true
+   },
+   {
+    "old": "06994237d37a432079d9ca094d401cf1638e77af",
+    "new": "3b22b4b510c1e0646e96bd6ffe31b50dfb7fce4a",
+    "kind": "commit",
+    "cited_in": [
+     "eval/history.json"
+    ],
+    "tree": "e6ad59964b6af43fc93ed7537874df6a191e83ea",
+    "published_after_push": true
+   },
+   {
+    "old": "d1b09c66a2db735d1ada52ad72bf4666caaa5b54",
+    "new": "357e6e810d36d4d2e89a1c5caac5d9d3926ef437",
+    "kind": "commit",
+    "cited_in": [
+     "eval/history.json",
+     "handoff_v2.2.json"
+    ],
+    "tree": "cd0b2c8d63ec119d7a1a2d30ce7c886fd76342ff",
+    "published_after_push": true
+   },
+   {
+    "old": "e004f08d84c98b1afd1e939db5ea81aac253c8eb",
+    "new": "19dcac3e06648faf8e6747c9c70d13054c48ee60",
+    "kind": "commit",
+    "cited_in": [
+     "CHANGELOG.md",
+     "README.md",
+     "eval/history.json"
+    ],
+    "tree": "653a7042c478b9438d169748ffb821f064584c2c",
+    "published_after_push": true
+   }
+  ],
+  "aetherneum-network/ezio-cardone": [
+   {
+    "old": "023c7cb5629b17295b4ddbbfeb22055a2be16b87",
+    "new": "7f915e8496fc8cb6b0caa8ad67b0f1809f0a4cfd",
+    "kind": "commit",
+    "cited_in": [
+     "eval/BLIND_PROTOCOL.md",
+     "eval/history.json"
+    ],
+    "tree": "3c01414513e638238100d7642c93a3972886a760",
+    "published_after_push": true
+   },
+   {
+    "old": "058e8ac419a6a78e1c3633a1e673fde3ac59f27f",
+    "new": "2b8ccdd503eb6ca4cb7bfd724dd0123485f97fb7",
+    "kind": "commit",
+    "cited_in": [
+     "eval/BLIND_PROTOCOL.md",
+     "eval/history.json"
+    ],
+    "tree": "bad8f60857a5bcddda315b88e7b4dfffed4a1e9c",
+    "published_after_push": true
+   },
+   {
+    "old": "05b00f64cb6771c698462905120bd36125b57c25",
+    "new": "a25cfacdbc026092b8fe04f887c5a671c5d491db",
+    "kind": "commit",
+    "cited_in": [
+     "eval/blind/hand-11/GOLD_OUTCOMES.md",
+     "eval/history.json"
+    ],
+    "tree": "008326cc96e77891f7bd9f5047726408bdcd024a",
+    "published_after_push": true
+   },
+   {
+    "old": "06ff379e511f6ed22cb584aaee981dd3cd0d8b0e",
+    "new": "221c306bb39f5cdc3f2adaa7efe0d36d9e369bc7",
+    "kind": "tag",
+    "cited_in": [
+     "eval/BLIND_PROTOCOL.md",
+     "eval/history.json"
+    ],
+    "tree": "b32df0ad36ffcf48a3ba03be67ccaeeff4de4d4a",
+    "published_after_push": true
+   },
+   {
+    "old": "08de8da1eed23c375a93bc16410cdc1e4d9b021b",
+    "new": "8feced8b0df5dd43fb0993d43812ac301e63d135",
+    "kind": "commit",
+    "cited_in": [
+     "eval/history.json"
+    ],
+    "tree": "f912ecc7a76c25f76200a3f21146ead8ae90539e",
+    "published_after_push": true
+   },
+   {
+    "old": "0c26555916701c4a81ea6490c32d5e7162edcdc8",
+    "new": "7eb977717a7e4d3a40635a43384a1b4feb2fac5b",
+    "kind": "tag",
+    "cited_in": [
+     "eval/BLIND_PROTOCOL.md",
+     "eval/history.json"
+    ],
+    "tree": "bdce66e1d0ac2cdc82d94a1544c1a69f7d41d354",
+    "published_after_push": true
+   },
+   {
+    "old": "110dc2c220a422a1d5f0dd5a4bd989e8895c56a2",
+    "new": "e900546f6b5e08a0ca95cf861d241309bbfe11e8",
+    "kind": "commit",
+    "cited_in": [
+     "eval/BLIND_PROTOCOL.md"
+    ],
+    "tree": "d93e3d199f21acfdd34a052ff16bed21be58f28c",
+    "published_after_push": true
+   },
+   {
+    "old": "11f1559870a71eee7f3251941495abf30bbaabb4",
+    "new": "cde73402a93ffbeeb682e04b4295fbf8b67b0108",
+    "kind": "commit",
+    "cited_in": [
+     "eval/blind/hand-24/GOLD_OUTCOMES.md",
+     "eval/history.json"
+    ],
+    "tree": "7178b3e1a68cdb809d4299ac743192e211fef322",
+    "published_after_push": true
+   },
+   {
+    "old": "12453f2ac263d1cba7f88364b2be1a8f9186d344",
+    "new": "f5a08a4c31f9bed3b85e5797f059b675c6da4268",
+    "kind": "tag",
+    "cited_in": [
+     "eval/BLIND_PROTOCOL.md"
+    ],
+    "tree": "40deeeea112389d3880cab7fd3036290db9bf93c",
+    "published_after_push": true
+   },
+   {
+    "old": "267ea87f4fa147bc66fd2af64c499ac2bf019876",
+    "new": "ec3ef5c596f993459182f402d54cff7a9c4c26f2",
+    "kind": "commit",
+    "cited_in": [
+     "CHANGELOG.md",
+     "eval/BLIND_PROTOCOL.md",
+     "eval/blind/hand-14/GOLD_OUTCOMES.md",
+     "eval/history.json"
+    ],
+    "tree": "40deeeea112389d3880cab7fd3036290db9bf93c",
+    "published_after_push": true
+   },
+   {
+    "old": "321d25639697169ad423249570947f2508fb3a98",
+    "new": "1a16c5413341e4aaa43706ff46248d42fb02622d",
+    "kind": "commit",
+    "cited_in": [
+     "eval/history.json"
+    ],
+    "tree": "bbf73787ebbff8e093456752c2bf57311355ebad",
+    "published_after_push": true
+   },
+   {
+    "old": "3a0d69e9f8b9849782abb586bb085bc030c09419",
+    "new": "c2cb48bf16370a51ac9357a029587dcd545dacf8",
+    "kind": "commit",
+    "cited_in": [
+     "eval/history.json"
+    ],
+    "tree": "60c98b22d4b30e40f4ec19fa777204c43d594867",
+    "published_after_push": true
+   },
+   {
+    "old": "452b46d5e2686aa0fca7d7aa50dec32e2ec3aa38",
+    "new": "d4e51bd2e1702f4c9511b2baeca01ad5e782ea92",
+    "kind": "commit",
+    "cited_in": [
+     "eval/BLIND_PROTOCOL.md",
+     "eval/history.json"
+    ],
+    "tree": "b32df0ad36ffcf48a3ba03be67ccaeeff4de4d4a",
+    "published_after_push": true
+   },
+   {
+    "old": "475bd994bbd063c4dc7cebb15f50e7b9474ebd58",
+    "new": "de6ad1d1086dbf1060a3df046ffcf59f12bceff9",
+    "kind": "tag",
+    "cited_in": [
+     "eval/BLIND_PROTOCOL.md"
+    ],
+    "tree": "3c01414513e638238100d7642c93a3972886a760",
+    "published_after_push": true
+   },
+   {
+    "old": "4b2dbaadd8b21b20f64132ff882360d747331917",
+    "new": "44fc7fc304722a16cf514eb8e95b446f3faa5ecc",
+    "kind": "commit",
+    "cited_in": [
+     "eval/BLIND_PROTOCOL.md",
+     "eval/history.json"
+    ],
+    "tree": "71ad1db478e2552db20c5bf7c7e56cec7891f438",
+    "published_after_push": true
+   },
+   {
+    "old": "4c90d537077bd879138f9d09c052a41f34149bf2",
+    "new": "6791be818de502048b77d0506a6ae7eaa5762a74",
+    "kind": "commit",
+    "cited_in": [
+     "CHANGELOG.md",
+     "eval/BLIND_PROTOCOL.md",
+     "eval/history.json"
+    ],
+    "tree": "411a7cb3c6218dd185ca09449d8a5fb99c2f2389",
+    "published_after_push": true
+   },
+   {
+    "old": "50a365e455d613bbdb580f891b9a29fdaea88650",
+    "new": "3d276ce16809bd27f66a125c07021e9019680dd7",
+    "kind": "commit",
+    "cited_in": [
+     "eval/BLIND_PROTOCOL.md",
+     "eval/blind/hand-22/GOLD_OUTCOMES.md",
+     "eval/history.json"
+    ],
+    "tree": "093a43fce326d0b65748aa6b49cf66e3224b7e53",
+    "published_after_push": true
+   },
+   {
+    "old": "564dc734c217d5462af9dc9d0e7ca0741bdba510",
+    "new": "90d58cc98736b5e25c4e535ce51da389a8cd95ac",
+    "kind": "commit",
+    "cited_in": [
+     "README.md",
+     "eval/BLIND_PROTOCOL.md",
+     "eval/history.json"
+    ],
+    "tree": "f2ac2778a80d917052955945de810bc6776fa7a7",
+    "published_after_push": true
+   },
+   {
+    "old": "5a13f3f7bf4429cbfa4ca2a05b1de69574f83e4c",
+    "new": "256b4b86bbe55d98009f4c69350e5899c98f3d21",
+    "kind": "commit",
+    "cited_in": [
+     "CHANGELOG.md",
+     "eval/BLIND_PROTOCOL.md",
+     "eval/history.json"
+    ],
+    "tree": "9b78ace506f622cfea8ab05c9a184e18099d250e",
+    "published_after_push": true
+   },
+   {
+    "old": "65b02335fb718ed061d3c9e665e26db97accc9ef",
+    "new": "6ae826d2062d05ae1ddb0bf683d784736fd58e49",
+    "kind": "commit",
+    "cited_in": [
+     "CHANGELOG.md",
+     "eval/BLIND_PROTOCOL.md"
+    ],
+    "tree": "9347834a6cb1247725cd869f0781871df9b91f30",
+    "published_after_push": true
+   },
+   {
+    "old": "66f116539d7421b95d124b94a32d4e8bbc92ba9e",
+    "new": "256c119f710a6489829e5a2d3323b45402484fd5",
+    "kind": "tag",
+    "cited_in": [
+     "eval/BLIND_PROTOCOL.md"
+    ],
+    "tree": "9347834a6cb1247725cd869f0781871df9b91f30",
+    "published_after_push": true
+   },
+   {
+    "old": "67cb31da93b55d86ce442d05305dc293663f8c48",
+    "new": "6caf07d07e6dcd76582e34757872b9cbea0c85e1",
+    "kind": "commit",
+    "cited_in": [
+     "README.md",
+     "eval/BLIND_PROTOCOL.md",
+     "eval/history.json"
+    ],
+    "tree": "89bd3fd70432cf9e476a339a282aa3d3f670e398",
+    "published_after_push": true
+   },
+   {
+    "old": "695b1b66820f34dd7cf700b2e95ef7f486e0c0e8",
+    "new": "29a26c7af24fb94fa7afc8cac227c4c76f890c7b",
+    "kind": "commit",
+    "cited_in": [
+     "eval/BLIND_PROTOCOL.md",
+     "eval/history.json"
+    ],
+    "tree": "a4b0d9ff54a181a0965173810eee6c2cfdbcc3f7",
+    "published_after_push": true
+   },
+   {
+    "old": "6acebba59e0fb59972e5dab75e0908de77ed67f1",
+    "new": "2ab1265ad8fe636a104483886a3eb2fad13cccfd",
+    "kind": "commit",
+    "cited_in": [
+     "CHANGELOG.md",
+     "README.md",
+     "eval/BLIND_PROTOCOL.md",
+     "eval/history.json"
+    ],
+    "tree": "c8d0998e6d9e2eb64010735c5f2ba11e3c3e101a",
+    "published_after_push": true
+   },
+   {
+    "old": "6d466e28e1dd4f7ffa8257af54da95b10a9bd96a",
+    "new": "e0524ab502040bd73a500decc44ffa034b21d0f6",
+    "kind": "commit",
+    "cited_in": [
+     "eval/BLIND_PROTOCOL.md",
+     "eval/history.json"
+    ],
+    "tree": "dd25ea8df8e69ba732c21b0e061005f95f9a4719",
+    "published_after_push": true
+   },
+   {
+    "old": "77e7736f573c93024f0aa49157f5949287bee698",
+    "new": "b085928e85d628dd0046822aff84ad664feae319",
+    "kind": "commit",
+    "cited_in": [
+     "eval/BLIND_PROTOCOL.md",
+     "eval/blind/hand-11/GOLD_OUTCOMES.md",
+     "eval/history.json"
+    ],
+    "tree": "387d82a007f3af4913f3e0bc7cd2c9511c6adbc8",
+    "published_after_push": true
+   },
+   {
+    "old": "7a1f749bbe1d8b3f052960bfb31c1ccc7262d72d",
+    "new": "8528fe2f0c5a233e3c38c02596305e12c96d4163",
+    "kind": "commit",
+    "cited_in": [
+     "eval/history.json"
+    ],
+    "tree": "0c7e8aa38f3cfe0d576e55aadf46df112d876f90",
+    "published_after_push": true
+   },
+   {
+    "old": "7d7d951612ce4606f501fd96ab89daceea707765",
+    "new": "c79e478409611ab5d54f2720cb9bf0a3312e3e90",
+    "kind": "tag",
+    "cited_in": [
+     "eval/BLIND_PROTOCOL.md"
+    ],
+    "tree": "093a43fce326d0b65748aa6b49cf66e3224b7e53",
+    "published_after_push": true
+   },
+   {
+    "old": "8326c21818df5e155f6067ba47b73a5658aff31d",
+    "new": "d5047bf3f0f7d857a673c2e22909f3b83f59709c",
+    "kind": "commit",
+    "cited_in": [
+     "eval/BLIND_PROTOCOL.md"
+    ],
+    "tree": "9fffab4f603034693d52132dea6e93033cae7c3e",
+    "published_after_push": true
+   },
+   {
+    "old": "86c419432ebda22541b800498a1b34269cbbf648",
+    "new": "8c8745c81699ba5fda3d7d7c22f5b3b17eade136",
+    "kind": "commit",
+    "cited_in": [
+     "eval/blind/hand-18/GOLD_OUTCOMES.md",
+     "eval/history.json"
+    ],
+    "tree": "212e6c086e37c28b85dc7b9b13f1d66007736bcb",
+    "published_after_push": true
+   },
+   {
+    "old": "91cba79b5671a9f273a7ecf268dc92ffa8679a23",
+    "new": "5d4c07c98b32bc5ad78c7e58393c9ac32824a21c",
+    "kind": "tag",
+    "cited_in": [
+     "eval/BLIND_PROTOCOL.md"
+    ],
+    "tree": "0120443d7e89c4e405430707ba9c78e265aa589c",
+    "published_after_push": true
+   },
+   {
+    "old": "99894a9d1670b60acdd9a3c0942071aabafada03",
+    "new": "14876c2087eb87ecc295c425c625bc0eed5e6a39",
+    "kind": "commit",
+    "cited_in": [
+     "README.md",
+     "eval/BLIND_PROTOCOL.md",
+     "eval/history.json"
+    ],
+    "tree": "c4664cdd80b183193f79ddeb84d4300c05b6b4ce",
+    "published_after_push": true
+   },
+   {
+    "old": "9a50ea34a156ddc9cce56750651965643cac2646",
+    "new": "788ff2cdcae423102220bb0875b1add3922b5582",
+    "kind": "commit",
+    "cited_in": [
+     "CHANGELOG.md",
+     "README.md",
+     "eval/history.json"
+    ],
+    "tree": "fe7a93e048d4b030f20b3ebeb669c0dded128d5f",
+    "published_after_push": true
+   },
+   {
+    "old": "a982b7b7e4fa2d9112d1cc6df8c6ed867043e5b5",
+    "new": "4f6e678094c3038a19a7955f95b0e8e74f43f400",
+    "kind": "commit",
+    "cited_in": [
+     "CHANGELOG.md",
+     "README.md",
+     "eval/BLIND_PROTOCOL.md",
+     "eval/history.json"
+    ],
+    "tree": "8c7b9e14bdec6bad897c7f44e651003bdada7d74",
+    "published_after_push": true
+   },
+   {
+    "old": "ae66f49debcb1bb15e83e1827acda35b03c4a3a6",
+    "new": "bb675dd188a872b0493968d55037024ac76d70ce",
+    "kind": "tag",
+    "cited_in": [
+     "eval/BLIND_PROTOCOL.md",
+     "eval/history.json"
+    ],
+    "tree": "387d82a007f3af4913f3e0bc7cd2c9511c6adbc8",
+    "published_after_push": true
+   },
+   {
+    "old": "b2b34ae7289f4854989f4b2ee3a64ef95cc868a4",
+    "new": "1674ca7a6f31530ecd5b99ecc2bb5dca36eafdaf",
+    "kind": "commit",
+    "cited_in": [
+     "CHANGELOG.md"
+    ],
+    "tree": "0f31e257e2c308653dd30498e1db1404ffd162af",
+    "published_after_push": true
+   },
+   {
+    "old": "b62483039af57dd32a81651ff2ad9c67200a5e1b",
+    "new": "3f0be4ad8888bc767d9d4c86a52cb3af6f8856ab",
+    "kind": "commit",
+    "cited_in": [
+     "README.md",
+     "eval/BLIND_PROTOCOL.md",
+     "eval/history.json"
+    ],
+    "tree": "65e2f5bc227135e3204b8e008583d9ed38da1db0",
+    "published_after_push": true
+   },
+   {
+    "old": "b65e45a5289133375222fa595abdbd9cd2087be7",
+    "new": "f59d63ad006a128e959bda5439fadbf463e8070a",
+    "kind": "commit",
+    "cited_in": [
+     "eval/BLIND_PROTOCOL.md",
+     "eval/history.json"
+    ],
+    "tree": "0120443d7e89c4e405430707ba9c78e265aa589c",
+    "published_after_push": true
+   },
+   {
+    "old": "b8e84b07725cf15d4fdfab04c0e5eca0c850efaf",
+    "new": "fbb5481f1ad1c6efb11d3ae357db75f91fa96fd5",
+    "kind": "commit",
+    "cited_in": [
+     "eval/history.json"
+    ],
+    "tree": "b687c7f5dc757e5972d5aa1ce78969234da98962",
+    "published_after_push": true
+   },
+   {
+    "old": "bc0e771fc3519e3927c72da27b267339f6f837c7",
+    "new": "1d0a28e32bed375a62dc229197cc1a307b075bcb",
+    "kind": "commit",
+    "cited_in": [
+     "eval/history.json"
+    ],
+    "tree": "761835f13d4b05471e9c4482c8fbd2cf65f97b71",
+    "published_after_push": true
+   },
+   {
+    "old": "c1859cbe0dd11e87d862e41fdada8dca25461654",
+    "new": "f67f7114374a8c7fe69e8f5ca67bfd817fa58acd",
+    "kind": "commit",
+    "cited_in": [
+     "tests/test_hygiene.py"
+    ],
+    "tree": "b5eeea8561af84637c637bea094d792960251dbe",
+    "published_after_push": true
+   },
+   {
+    "old": "c7283a49bc1bcba6e7ecbec135be98f81d512419",
+    "new": "0e5f59a36315dce1702487968545cffb8a4ce2d1",
+    "kind": "commit",
+    "cited_in": [
+     "eval/blind/hand-20/GOLD_OUTCOMES.md",
+     "eval/history.json"
+    ],
+    "tree": "f43b7c212ffa13733ff89e117596ad882f65c77f",
+    "published_after_push": true
+   },
+   {
+    "old": "c7fa9d7a0380a6b81f51efd6c6df562f829c769c",
+    "new": "a7d9ba1195b854ed7d7680e667158039d41441a3",
+    "kind": "tag",
+    "cited_in": [
+     "eval/BLIND_PROTOCOL.md",
+     "eval/history.json"
+    ],
+    "tree": "c8d0998e6d9e2eb64010735c5f2ba11e3c3e101a",
+    "published_after_push": true
+   },
+   {
+    "old": "d1769d555934ca5eaf4717bafe8135105caffd43",
+    "new": "146a4f28b3d0d0d4af87c1f766c9ed09456a3c37",
+    "kind": "commit",
+    "cited_in": [
+     "eval/BLIND_PROTOCOL.md",
+     "eval/history.json"
+    ],
+    "tree": "bdce66e1d0ac2cdc82d94a1544c1a69f7d41d354",
+    "published_after_push": true
+   },
+   {
+    "old": "db334c9e8b0978559052ac27bb0f81043663b5e9",
+    "new": "9e05680cad5280c729c864ac484dcae4716a2cd2",
+    "kind": "commit",
+    "cited_in": [
+     "eval/blind/hand-22/GOLD_OUTCOMES.md",
+     "eval/history.json"
+    ],
+    "tree": "ddabffd830dd7db3716451f12b37fbece57dc1b6",
+    "published_after_push": true
+   },
+   {
+    "old": "dbff8e839afe41e0fc295e5614a39db07f373ead",
+    "new": "6c24e93a2aece85574cacf16ddba11cdd9e81ddc",
+    "kind": "tag",
+    "cited_in": [
+     "eval/BLIND_PROTOCOL.md"
+    ],
+    "tree": "dd25ea8df8e69ba732c21b0e061005f95f9a4719",
+    "published_after_push": true
+   },
+   {
+    "old": "dfcef7e00b403733dbebe0b50fa32f9bc3d0ccae",
+    "new": "4ffa6a6e6248621757fbc8c8df8c97131bb69367",
+    "kind": "commit",
+    "cited_in": [
+     "CLAIMS.md"
+    ],
+    "tree": "8c10d8f4e14458ed6d666d0968fc57f71887e8c1",
+    "published_after_push": true
+   },
+   {
+    "old": "e6525e26fe84c7f57fc297cf57154563d9de5649",
+    "new": "a20bc18e7faef5970f7081c9b9e1fd30f5e93344",
+    "kind": "tag",
+    "cited_in": [
+     "eval/BLIND_PROTOCOL.md",
+     "eval/history.json"
+    ],
+    "tree": "a4b0d9ff54a181a0965173810eee6c2cfdbcc3f7",
+    "published_after_push": true
+   },
+   {
+    "old": "e68704d4ab670d78072eee9bc3049e2005f541d1",
+    "new": "82a48c7b7da43e19a598423be8c87871f6cc64a5",
+    "kind": "commit",
+    "cited_in": [
+     "README.md",
+     "eval/BLIND_PROTOCOL.md",
+     "eval/history.json"
+    ],
+    "tree": "702d4f335b1db6cb908412ede97f363073a03a4e",
+    "published_after_push": true
+   },
+   {
+    "old": "e779adcce24d97d968c5d61f99c1fbccdaca6607",
+    "new": "56786f15b82d01c18cd4c4f22eb8ce1a18a29858",
+    "kind": "commit",
+    "cited_in": [
+     "CHANGELOG.md"
+    ],
+    "tree": "aa9fcb307cf9e90559791c3e3c441e9a4e9bf92a",
+    "published_after_push": true
+   },
+   {
+    "old": "f73096be220bf801d72bedc6dc1096c0e479e7d6",
+    "new": "4180c69986b4877d01752db6f79a7ef76d279c9e",
+    "kind": "commit",
+    "cited_in": [
+     "eval/history.json"
+    ],
+    "tree": "c62d3425a94658a98dfeebd96aa6aaab07a4444a",
+    "published_after_push": true
+   },
+   {
+    "old": "f76dfadcf45d6b031e611a1932713ce96ff2d3fd",
+    "new": "32e4c21cc8a7ce99414353e04a54b6ae16d2a42f",
+    "kind": "commit",
+    "cited_in": [
+     "CHANGELOG.md",
+     "eval/BLIND_PROTOCOL.md",
+     "eval/history.json"
+    ],
+    "tree": "e97b20c0a0fa80f772d71f0b9fbbf9bd6818e866",
+    "published_after_push": true
+   },
+   {
+    "old": "ff97ea67b520ee67d469cc9ada7100a56385e298",
+    "new": "fdb622d18cce368c64fb19e2b1707f3e3645e58f",
+    "kind": "commit",
+    "cited_in": [
+     "eval/history.json"
+    ],
+    "tree": "7fa366ec95b60ab10c41b7cba738ce29a5ae7317",
+    "published_after_push": true
+   }
+  ],
+  "aetherneum-network/faculty": [
+   {
+    "old": "371f01068cbbe380e6d5ac739d1f5ffb4d4adbee",
+    "new": "8a614437ca9765345e7713a795c69f9279c63598",
+    "kind": "commit",
+    "cited_in": [
+     "alumni/alumni.json",
+     "council_v2/scoring.py",
+     "tests/fixtures/signed_before_p3/fixture__anthropic.json",
+     "tests/fixtures/signed_before_p3/fixture__longctx.json",
+     "tests/fixtures/signed_before_p3/fixture__reasoning.json",
+     "tests/fixtures/signed_before_p3/fixture__velocity.json"
+    ],
+    "tree": "590cf70a737d963b80c9d0993f5fbca1282c79c7",
+    "published_after_push": true
+   }
+  ],
+  "aetherneum-network/noa-cifratti": [
+   {
+    "old": "3be83ef9e41d293b2e2744b0077768b148f386a1",
+    "new": "ab7a368816db73a2925c9fc1289cbf211750e745",
+    "kind": "commit",
+    "cited_in": [
+     "eval/BLIND_PROTOCOL.md",
+     "eval/history.json"
+    ],
+    "tree": "300d0ff5d5e5b32a850f4e4dbde16b759c9a4696",
+    "published_after_push": true
+   },
+   {
+    "old": "54c32502e32ba32d88e0e548aa6fbcb248b98309",
+    "new": "38fb0c5598684024d60e80d5f7770f8f3e7496d4",
+    "kind": "commit",
+    "cited_in": [
+     "tests/test_docs.py"
+    ],
+    "tree": "a9aac1be31b4703f24e2e7ad99b8000480f9afaa",
+    "published_after_push": true
+   },
+   {
+    "old": "6d77abe432f9a3853d88f0dd6c05adf7d3a1a0d0",
+    "new": "91ff6de9eff95051e27778581d6acf492ebd997a",
+    "kind": "commit",
+    "cited_in": [
+     "eval/BLIND_PROTOCOL.md"
+    ],
+    "tree": "80a97f75cb3adde469fde4c0df529bc9c61701f4",
+    "published_after_push": true
+   },
+   {
+    "old": "7ae2d66dd5a2286392a2c11cc25189fc05eb0b13",
+    "new": "2e8276683e0288e937ae3bac59de6eebc11657d1",
+    "kind": "commit",
+    "cited_in": [
+     "tests/test_docs.py"
+    ],
+    "tree": "18ffe9277273d2c17905495cf2f25e6cc2b097b8",
+    "published_after_push": true
+   },
+   {
+    "old": "7dca17889a9098eafd0b7a732b9f06f5ca855d0f",
+    "new": "dd8362a1f3ddc6cc587c374d21cbb3f500cf9741",
+    "kind": "commit",
+    "cited_in": [
+     "tests/test_docs.py"
+    ],
+    "tree": "fa4721952e73af6195ce5c08fc801f4948f53777",
+    "published_after_push": true
+   },
+   {
+    "old": "a4492d8817e413ec23b1a8090c2ce064659c9ed9",
+    "new": "74298c2b2c786e033a0282b30725251d8dda0b87",
+    "kind": "commit",
+    "cited_in": [
+     "README.md",
+     "eval/BLIND_PROTOCOL.md",
+     "eval/history.json"
+    ],
+    "tree": "bbc3c9e0a1d231548598a0ccd0cdca26b2995225",
+    "published_after_push": true
+   }
+  ],
+  "aetherneum-network/tomaso-riviera": [
+   {
+    "old": "3a554433f1f52db4cf50cf03376c7f6cb63dfc8d",
+    "new": "7ee9e29bef6e3ee97afd92f61f5a3ba31c2a2264",
+    "kind": "tag",
+    "cited_in": [
+     "eval/history.json"
+    ],
+    "tree": "af2b8ac0522ef4da5f5742d0310c77911d4dff6a",
+    "published_after_push": true
+   },
+   {
+    "old": "894e0ce1fe4437f43587160af06f69ec8855ae7b",
+    "new": "c35b21b213404e95ad59f9f37339e1beb99c12d9",
+    "kind": "commit",
+    "cited_in": [
+     "MANIFEST.sha256"
+    ],
+    "tree": "14f5290898c7e71ca20842a71eab613a4ffc065e",
+    "published_after_push": true
+   },
+   {
+    "old": "cb6d2c225fbe9884e22f52366cd3f37c1d7f0c93",
+    "new": "d101a8853ae92624ca154f174bbfe1cb98347dd5",
+    "kind": "commit",
+    "cited_in": [
+     "eval/history.json"
+    ],
+    "tree": "d0c73608f8fead52905c5539e5db79601988ab14",
+    "published_after_push": true
+   },
+   {
+    "old": "f4a89c53492cc042afd0727302df8be7be62c947",
+    "new": "93b7e9d52ed0837d7882414f3edcac49c44f1221",
+    "kind": "commit",
+    "cited_in": [
+     "README.md",
+     "eval/history.json"
+    ],
+    "tree": "af2b8ac0522ef4da5f5742d0310c77911d4dff6a",
+    "published_after_push": true
+   }
+  ],
+  "aetherneum-network/yara-indrani": [
+   {
+    "old": "5297a873a358b9fbce3a00e6944c1176aaa51d68",
+    "new": "854810c995416a540f88f159f6a0c206d88d1263",
+    "kind": "commit",
+    "cited_in": [
+     "CLAIMS.md"
+    ],
+    "tree": "55c96fe0a344ab10b7950a12b3f0190849cb9bb1",
+    "published_after_push": true
+   },
+   {
+    "old": "62065eed136a8e56a588ecb460aee9752ed74491",
+    "new": "11153e541797879a89a06e4c618cbf042e8f7484",
+    "kind": "commit",
+    "cited_in": [
+     "CHANGELOG.md",
+     "CLAIMS.md",
+     "tests/test_docs.py"
+    ],
+    "tree": "7387a3e7f4793f957e12968005a8500c118b2bdb",
+    "published_after_push": true
+   },
+   {
+    "old": "e354029db082b54ed04ae28a8d7d7c1524e10378",
+    "new": "1af4955555f3e4cd603accd0b341ccd09fdf2ff8",
+    "kind": "commit",
+    "cited_in": [
+     "eval/history.json"
+    ],
+    "tree": "5132d05be9a27dd34ff14dda9aaea71d58f95991",
+    "published_after_push": true
+   }
+  ]
+ }
+}
